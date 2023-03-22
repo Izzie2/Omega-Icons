@@ -1,5 +1,5 @@
 {
-  "name": "REPLACE_ME",
+  "name": "Omecons",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -18,18 +18,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kreuzerk/svg-icon-library-starter.git"
+    "url": "git+https://github.com/izzie2/omecons.git"
   },
   "keywords": [
-    "SVG",
     "icons",
     "library",
-    "starter"
+    "Omecons",
+    "Omega Icons"
   ],
-  "author": "Kevin Kreuzer",
-  "license": "ISC",
+  "author": "Zachary Padgett",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/kreuzerk/svg-icon-library-starter/issues"
+    "url": "https://github.com/izzie2/omecons/issues"
   },
-  "homepage": "https://github.com/kreuzerk/svg-icon-library-starter#readme"
+  "homepage": "https://github.com/izzie2/omecons#readme"
 }
