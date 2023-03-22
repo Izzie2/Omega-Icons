@@ -1,5 +1,5 @@
 {
-  "name": "Omecons",
+  "name": "Omega Icons",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/izzie2/omecons.git"
+    "url": "git+https://github.com/izzie2/omega-icons.git"
   },
   "keywords": [
     "icons",
@@ -29,7 +29,7 @@
   "author": "Zachary Padgett",
   "license": "",
   "bugs": {
-    "url": "https://github.com/izzie2/omecons/issues"
+    "url": "https://github.com/izzie2/omega-icons/issues"
   },
-  "homepage": "https://github.com/izzie2/omecons#readme"
+  "homepage": "https://github.com/izzie2/omega-icons#readme"
 }
