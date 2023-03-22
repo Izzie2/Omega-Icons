@@ -4,12 +4,12 @@
       "./svg-icons/**/*.svg"
     ],
     "outputDirectory": "./dist/icons",
-    "interfaceName": "REPLACE_ME",
-    "typeName": "REPLACE_ME",
-    "prefix": "REPLACE_ME",
+    "interfaceName": "OMIcons",
+    "typeName": "omIcons",
+    "prefix": "omi",
     "generateType": true,
     "exportCompleteIconSet": true,
     "optimizeForLazyLoading": true,
-    "modelFileName": "REPLACE_ME.model",
+    "modelFileName": "om-icons.model.ts",
     "compileSources": true
 }
